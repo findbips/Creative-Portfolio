@@ -10,7 +10,7 @@ This repository contains **final code** for Next.js Creative Portfolio website b
 [Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
 
 Starter Code Files👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files) <br />
+➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/findbips/Creative-Portfolio) <br />
 <!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
 
 <!-- If you want to learn how to create it please follow below tutorial👇: <br />
@@ -27,22 +27,22 @@ Starter Code Files👇: <br />
 ## Images of The Portfolio Website:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
+![Nextjs Creative Portfolio Website](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Home-desktop.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
+![Nextjs Creative Portfolio Website About Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/About-desktop-full.png)
 
 #### Projects
-![Next.js Creative Portfolio Website Projects Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
+![Next.js Creative Portfolio Website Projects Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Projects-desktop.png)
 
 #### Contact
-![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Contact-desktop.png)
 
 #### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Home-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/About-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Projects-mobile.png)
+![Next.js Creative Portfolio Website Contact Page](https://github.com/findbips/Creative-Portfolio/blob/main/website%20images/Contact-mobile.png)
 
 ## Resources Used in This Project
 
